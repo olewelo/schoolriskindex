@@ -11,7 +11,7 @@ This repository contains the code and main output files for the School Risk Inde
 - `02_Index Calculation.ipynb`  
   Contains the code aggregating school-level exposure data to the country-level and calculating the composite School Risk Index, including individual hazard scores.
 
-*Note: A third notebook containing the code for two case study analyses has been excluded from this public repository due to the internal nature of part of the data involved.*
+***Note:** A third notebook containing the code for two case study analyses has been excluded from this public repository due to the internal nature of part of the data involved.*
 
 
 
@@ -22,11 +22,13 @@ Due to size constraints, the full input data required to run the notebooks—inc
 The full base data library can be accessed using the following link:
 [SRI Base Data Library](https://olewelo.thegood.cloud/s/Am6THox9cSmaPcG)
 
-It includes:
-- Raw data and code used to calculate school locations.
+This includes:
+- Raw data and processing outputs used to calculate school locations.
 - Climate hazard base and exposure rasters for heatwaves, air pollution, flooding, cyclones, and water scarcity, along with the code to generate them.
 
 The folder structure in this repository matches that of the external data library. To run the notebooks, simply place the downloaded files into the 0001_BASE DATA FILES/ folder.
+
+***Note:** While all base data files themselves are stored externally, the code used to generate the school location dataset is also included directly in this repository for reference. You can find it in: 0001_BASE DATA FILES/01_Schools/*
 
 ## Output Data: `0002_DATA PRODUCTS/`
 
