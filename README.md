@@ -20,7 +20,7 @@ This repository contains the code and main output files for the School Risk Inde
 Due to size constraints, the full input data required to run the notebooks—including all climate hazard exposure rasters—is stored externally.
 
 The full base data library can be accessed using the following link:
-[SRI Base Data Library](https://olewelo.thegood.cloud/s/Am6THox9cSmaPcG)
+[SRI Base Data Library](https://olewelo.thegood.cloud/s/WE4TZLmzdXqrxKS)
 
 This includes:
 - Raw data and processing outputs used to calculate school locations.
