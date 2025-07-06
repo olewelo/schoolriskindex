@@ -1,4 +1,4 @@
-# School Risk Index – Public Facing Repository
+# School Risk Index – Public-Facing Repository
 
 This repository contains the code and main output files for the School Risk Index—a capstone project by [Madison Buchholz](mailto:madison.buchholz@nyu.edu) and [Ole Siever](mailto:ole.siever@nyu.edu), graduate students at the [NYU Center for Urban Science + Progress](https://engineering.nyu.edu/research-innovation/centers/cusp), in cooperation with the [Institute for Development Impact](https://i4di.org) (I4DI). The project calculates a composite risk index that estimates the exposure of schools around the world to climate and environmental hazards. This repository contains only a selection of files, due to the internal nature of some of the work.
 
